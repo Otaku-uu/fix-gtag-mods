@@ -10,4 +10,3 @@ or create a ticket in the discord!
 
 THIS IS A PRODUCT OF DXDD
 
-![Dxdd](https://cdn.discordapp.com/attachments/1263050558055383112/1265634319783952438/image.png?ex=66a23950&is=66a0e7d0&hm=401910a2bde5248d81979eb59c322155f4406ce40cc092056c70d8f22f40f6bd&)
